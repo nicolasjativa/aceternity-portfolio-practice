@@ -25,6 +25,9 @@ This portfolio was built as a learning exercise and a design/dev sandbox. It doe
 - 💡 UI powered by Aceternity components
 - 📦 Clean code with modular components
 
+## 🖥️ Live Site
+
+🔗 [View live site](https://nj-aceternity-portfolio.vercel.app/)
 
 ## 🛠️ Getting Started
 
